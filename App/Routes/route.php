@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Controllers;
+namespace App\Routes;
 
 use Slim\App;
 use App\Controllers\StudentsController;
